@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="filenew">resource/filenew.png</file>
+        <file alias="foldernew">resource/foldernew.png</file>
+    </qresource>
+</RCC>
